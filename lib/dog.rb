@@ -6,7 +6,7 @@ class Dog
   @@all = []
   
   def initialize(name)
-    @name = dog_name 
+    @name = name 
     save
   end
   
